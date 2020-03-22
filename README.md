@@ -11,8 +11,6 @@ Its written by using Spring-Boot web framework. So any idea with compatible with
 * sets common programId for all sessions  
 
   
-Validation : Title is checked against empty-string 
-
 **Search API:** Search API works based on programId parameter. it retrieves conference presentation list from
  database based on program id  
 
